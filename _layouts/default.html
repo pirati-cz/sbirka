@@ -1,0 +1,25 @@
+{% include head.html %}
+<body>
+
+{% include menu.html %}
+
+<div class="row bgwhite">
+
+<div data-alert class="alert-box warning">
+  Právě si prohlížíte aplikaci, která je ve stavu pískoviště. Můžete procházet
+  její zdrojový kód, doplňovat předpisy a řešit problémy na githubové stránce s
+  issues. Zatím je aplikace zcela v zárodku, tak prosím samo přiložte ruku k dílu.
+  <a href="#" class="close">&times;</a>
+</div>
+
+{% if page.typ == "úplné znění předpisu" %}{% include verze.html %} {% endif %}
+
+{% if page.['formát'] == "markdown" %} {% capture obsah %} {{content}} {% endcapture %}{{ obsah | markdownify }}
+{% else %} {% if page.['název'] %} <h1> {{ page.['název'] | capitalize }} </h1> {% endif %}
+{{content}} {% endif %}
+
+{% include foot.html %}
+</div>
+
+</body>
+</html>

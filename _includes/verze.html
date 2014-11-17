@@ -1,0 +1,55 @@
+<div class="panel">
+
+  <div class="row">
+  <form>
+    <div class="medium-4 columns">
+      <strong>Výběr úplného znění</strong>
+    </div>
+
+    <div class="medium-2 columns">
+      <label for="datum-verze" class="right inline"> ke dni</label>
+    </div>
+
+<div class="medium-2 columns">
+  <input type="text" id="datum-verze">
+</div>
+
+    <div class="medium-4 columns">
+      {% assign uplna_zneni = (site.pages | where: "název", page.["název"] | where: "typ", "úplné znění předpisu" | sort: 'platnost' %}
+        <select id="verze">
+      {% for zneni in uplna_zneni reversed %}
+          <option value="{{ zneni.['url'] }}"{% if page.url == zneni.['url']%} selected="selected"{% endif %}>{{ forloop.length | minus: forloop.index0 }}. znění platné od {{ zneni.['platnost'] | date: "%d.%m.%Y" }} </option>
+{% endfor  %}
+        </select>
+    </div>
+  </form>
+  </div>
+</div>
+
+{% if page.['stav'] == 'aktuální' %}
+<div data-alert class="alert-box success">
+  Tento dokument je aktuálně účinným zněním.
+  <a href="#" class="close">&times;</a>
+</div>
+{% else %}
+<div data-alert class="alert-box alert">
+  Tento dokument je historickým zněním, které bylo nahrazeno novějším zněním.
+  <a href="#" class="close">&times;</a>
+</div>
+{% endif %}
+
+
+Úplné znění předpisu, který vydal {{ page.['původce'] }},</br>
+{% assign usneseni = (site.pages | where: "značka", page.['schváleno']) %}
+schváleného <a href="{{ usneseni.first.url }}">usnesením ze dne {{ usneseni.first.platnost | date: "%d.%m.%Y" }}, sp. zn. {{ page.['schváleno'] }}</a>{% if page.['změněno'] %},</br>
+
+{% assign number = (page.['změněno'].size | minus: '1') %}
+{% for item in (0..number) %}
+{% assign zmena = page.['změněno'][item] %}
+{% assign usneseni = (site.pages | where: "značka", zmena) %}
+ve znění <a href="{{ usneseni.first.url }}">usnesení ze dne {{ usneseni.first.platnost | date: "%d.%m.%Y" }},
+sp. zn. {{ zmena }}</a>{% if forloop.last %}:{% else %},</br>{% endif %}
+
+{% endfor %}
+{% else%}:
+{% endif %}

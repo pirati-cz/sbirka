@@ -1,0 +1,21 @@
+---
+název:  Seznam předpisů
+---
+
+<table>
+<thead>
+  <tr>
+    <th>Zkratka</th>
+    <th>Název</th>
+  </tr>
+</thead>
+<tbody>
+{% assign predpisy = site.pages | where: "typ", "úplné znění předpisu" | where: "stav", "aktuální" %}
+{% for page in predpisy %}
+  <tr>
+    <td>{{ page.['zkratka'] }}</td>
+    <td><a href="{{ page.url }}">{{ page.['název'] }}</a></td>
+  </tr>
+{% endfor %}
+<tbody>
+</table>

@@ -1,0 +1,24 @@
+---
+název: Seznam rozhodnutí
+---
+
+<table>
+<thead>
+  <tr>
+    <th>Značka</th>
+    <th>Název</th>
+    <th>Platnost</th>
+  </tr>
+</thead>
+<tbody>
+
+{% assign rozhodnuti = site.pages | where: "typ", "rozhodnutí" %}
+{% for page in rozhodnuti %}
+  <tr>
+    <td>{{ page.['značka'] }}</td>
+    <td><a href="{{ page.url }}">{{ page.['název'] }}</a></td>
+    <td>{{ page.['platnost'] | date: "%d.%m.%Y" }}</td>
+  </tr>
+{% endfor  %}
+</tbody>
+</table>

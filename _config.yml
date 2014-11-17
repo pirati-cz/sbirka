@@ -1,0 +1,25 @@
+# Site settings
+title: Sbírka předpisů
+description: > # this means to ignore newlines until "baseurl:"
+  Piráti na obzoru! Česká pirátská strana kandiduje pod č. 19 v podzimních volbách do celopražského zastupitelstva.
+  Budeme nezávisle kontrolovat práci vládnoucích politiků. Naši zastupitelé vás budou informovat a hájit!
+keywords: Piráti, komunální volby, zastupitelstvo, Praha, Praha volí jinak, Česká pirátská strana
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.prahavolijinak.cz" # the base hostname & protocol for your site
+# ga: UA-54908007-1
+
+permalink:     :title.html
+
+# Build settings
+markdown: kramdown
+
+sass:
+    sass_dir: assets/_sass
+    style: :compressed
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"

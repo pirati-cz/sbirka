@@ -1,0 +1,3 @@
+[submodule "scripts/import/dokuwiki-to-markdown-converter"]
+	path = scripts/import/dokuwiki-to-markdown-converter
+	url = https://github.com/titledk/dokuwiki-to-markdown-converter
