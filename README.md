@@ -16,3 +16,7 @@ Východiska sbírky
 * Zachovat abstraktnost vzhledem k použití v jiných prostředích (na akademii, ve státní správě)
 * Uchovávat všechny podstatné informace v textových souborech, které lze lokálně měnit po skupinách
 * Provázat jednotlivé soubory a doplnit obrázky, aby poskytovaly jednoduchou orientaci v předpisu
+
+Příprava legislativy
+--------------------
+Systém se dobře hodí i na přípravu nové legislativy. Pro takový případ stačí udělat vlastní ``fork``, vytvořit si v něm větev nazvanou podle legislativního záměru a požádat o sloučení (``pull request``) do repozitáře příslušného orgánu (typicky republikový výbor). Tam projde legislativním procesem a následně bude následně požádána o sloučení sbírka, čímž dojde k vyhlášení přijatého rozhodnutí a úplného znění předpisu. Díky možnosti komentovat pull request bude u každého předpisu automaticky také důvodová zpráva.
