@@ -3,8 +3,8 @@ typ:          rozhodnutí
 název:        Zasedání republikového výboru v Plzni
 značka:       RV 11/2012
 původce:      republikový výbor
-platnost:     2012-10-11
-účinnost:     2012-10-11
+platnost:     2012-11-10
+účinnost:     2012-11-10
 zmocnění:     
 formát:       markdown
 ---

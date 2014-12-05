@@ -3,8 +3,8 @@ typ:          rozhodnutí
 název:        Řešení netransparentního účtu
 značka:       RV 7/2012
 původce:      republikový výbor
-platnost:     
-účinnost:     
+platnost:     2012-11-10
+účinnost:     2012-11-10
 zmocnění:     
 formát:       markdown
 ---
