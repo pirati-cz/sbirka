@@ -1,7 +1,7 @@
 ---
 typ:          rozhodnutí
 název:        Odvolání kandidáta Leoše Nohy
-značka:       RV 9/2012
+značka:       RV 09/2012
 původce:      republikový výbor
 platnost:     2012-10-06
 účinnost:     2012-10-10

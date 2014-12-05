@@ -1,7 +1,7 @@
 ---
 typ:          rozhodnutí
 název:        usnesení republikového výboru k členskému příspěvku
-značka:       RV 3/2010
+značka:       RV 03/2010
 původce:      republikový výbor
 platnost:     2010-01-17
 účinnost:     2010-01-17

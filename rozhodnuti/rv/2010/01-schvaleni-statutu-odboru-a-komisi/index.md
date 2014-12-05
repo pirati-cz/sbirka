@@ -1,7 +1,7 @@
 ---
 typ:          rozhodnutí
 název:        Schválení statutů odborů a komisí
-značka:       RV 1/2010
+značka:       RV 01/2010
 původce:      republikový výbor
 platnost:     2010-12-14
 účinnost:     2010-01-05

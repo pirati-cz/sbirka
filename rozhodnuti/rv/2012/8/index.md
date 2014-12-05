@@ -1,7 +1,7 @@
 ---
 typ:          rozhodnutí
 název:        Schválení společného programu pro krajské volby
-značka:       RV 8/2012
+značka:       RV 08/2012
 původce:      republikový výbor
 platnost:     2012-07-15
 účinnost:     2012-07-20
