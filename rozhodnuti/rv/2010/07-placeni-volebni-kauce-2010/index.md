@@ -1,7 +1,7 @@
 ---
 typ:          rozhodnutí
 název:        Pravidla pro kandidátky
-značka:       RV 05/2010
+značka:       RV 5/2010
 původce:      republikový výbor
 platnost:     2010-02-18
 účinnost:     2010-02-18

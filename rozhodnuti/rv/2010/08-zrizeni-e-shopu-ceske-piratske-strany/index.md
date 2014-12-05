@@ -1,7 +1,7 @@
 ---
 typ:          rozhodnutí
 název:        Placení volební kauce 2010
-značka:       RV 07/2010
+značka:       RV 7/2010
 původce:      republikový výbor
 platnost:     2010-03-24
 účinnost:     2010-03-24

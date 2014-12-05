@@ -1,7 +1,7 @@
 ---
 typ:          rozhodnutí
 název:        Ratifikace public domain manifesto
-značka:       RV 04/2010
+značka:       RV 4/2010
 původce:      republikový výbor
 platnost:     2009-01-30
 účinnost:     2010-02-10

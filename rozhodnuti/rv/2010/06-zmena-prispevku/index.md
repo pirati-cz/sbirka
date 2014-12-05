@@ -1,7 +1,7 @@
 ---
 typ:          rozhodnutí
 název:        změna členských příspěvků a pravidel pro příznivce
-značka:       RV 06/2010
+značka:       RV 6/2010
 původce:      republikový výbor
 platnost:     2010-02-26
 účinnost:     2010-02-26

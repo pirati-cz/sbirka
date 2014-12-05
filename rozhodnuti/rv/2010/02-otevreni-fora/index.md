@@ -1,7 +1,7 @@
 ---
 typ:          rozhodnutí
 název:        Otevření fóra republikového výboru
-značka:       RV 02/2010
+značka:       RV 2/2010
 původce:      republikový výbor
 platnost:     2009-12-08
 účinnost:     2010-01-05

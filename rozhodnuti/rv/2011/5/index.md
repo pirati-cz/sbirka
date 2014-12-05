@@ -1,7 +1,7 @@
 ---
 typ:          rozhodnutí
 název:        Zasedání republikového výboru v Plzni
-značka:       RV 05/2011
+značka:       RV 5/2011
 původce:      republikový výbor
 platnost:     2011-03-06
 účinnost:     2011-03-06
