@@ -1,6 +1,6 @@
 ---
 typ:          rozhodnutí
-název:        usnesení republikového výboru k členskému příspěvku
+název:        Schválení jednacího řádu a statutů
 značka:       RV 14/2010
 původce:      republikový výbor
 platnost:     2010-08-15
