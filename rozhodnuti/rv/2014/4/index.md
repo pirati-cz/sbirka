@@ -5,30 +5,16 @@ značka:       RV 4/2014
 původce:      republikový výbor
 platnost:     2014-02-06
 účinnost:     2014-02-06
-zmocnění:     čl. 9 odst. 5 písm. c) stanov
+zmocnění:     
 formát:       markdown
 ---
 
-# Usnesení republikového výboru k občanství jako podmínce členství
+**Zápis z [internetového jednání](https://forum.pirati.cz/republikovy-vybor-f248/rv-4-2014-podminky-clenstvi-t21066.html) republikového výboru**
 
-Republikový výbor se usnesl takto:
-
-1. § 6 [pravidel pro příspěvek][prp] se **mění** takto:
-
-   **§6 Podmínka občanství**
-
-   (1) Občanem se ve stanovách rozumí
-     a) státní občan České republiky[^obcan-cr] a dále  
-     b) občan Evropské unie,[^obcan-eu] který má v České republice potvrzen přechodný pobyt nebo povolen trvalý pobyt.[^trvaly-pobyt]
-
-   (2) Příslušný orgán splnění podmínky občanství ověří, ledaže to zjevně není třeba.
-
-2. Tento předpis účinkuje vyhlášením, nejdříve však účinností odpovídající změny stanov schválené usnesením CF 3/2014.
-
-----
-
-[^obcan-cr]: § 3 zákona č. 186/2013 Sb., o státním občanství České republiky.
-[^obcan-eu]: Čl. 9 smlouvy o Evropské unii.
-[^trvaly-pobyt]: § 87a a § 87g a násl. zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky.
-
-[prp]: /predpisy/prp/2014-11-30.html
+* 23.1.2014 [Zahájeno](https://forum.pirati.cz/podatelna-republikoveho-vyboru-f433/podminky-clenstvi-t21048.html#p276682) jednání na základě podpory 1/5 členů RV
+* 26.1.2014 [Hlasování o pozměňovacím návrhu](https://forum.pirati.cz/post277673.html#p277673)
+* 30.1.2014 [Zahájeno](https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv-4-2014-podminky-clenstvi-hlasovani-t21219.html) hlasování o usnesení
+* 31.1.2014 [Vznesena](https://forum.pirati.cz/post278987.html#p278987) námitka na hlasování
+* 4.2.2014 Námitka byla konsenzem [přijatá](https://forum.pirati.cz/post280357.html#p280357)
+* 4.2.2014 [Zahájeno](https://forum.pirati.cz/post280356.html#p280356) nové hlasování
+* 6.2.2014 [Přijetí](https://forum.pirati.cz/post281326.html#p281326) usnesení
