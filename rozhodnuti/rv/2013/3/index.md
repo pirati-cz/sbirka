@@ -16,6 +16,7 @@ formát:       markdown
 * Republikové výbor schvaluje programový bod [Volnočasové aktivity](https://www.pirati.cz/doku.php?id=program:volnocasove_aktivity&rev=1364423631).
 
 ##Zápis z jednání
+
 ###Seznam přítomných
 
 **Přítomní členové republikového předsednictva:**
