@@ -120,6 +120,7 @@ Usnesení č.5
 Hlasování č.1
 
 * Procedurální hlasování o formách programu na internetové fórum
+
 |PRO|	13 hlasů|
 |PROTI|	1 hlas|
 |ZDRZELI SE|	2 hlasy|
@@ -146,8 +147,8 @@ Hlasování č.3
 
 |Zdeněk Štěpánek|	 pro|	 Ondřej Kotas|	 pro|
 |Mikuláš Ferjenčík|	pro|	 Ondřej Profant|	 pro|
-|Ivan Bartoš|	 pro|	 |Jiří Kadeřávek|	 zdržel se|
-|Petr Kopač|	pro|	| Ivo Vašíček|	 zdržel se|
+|Ivan Bartoš|	 pro|	 Jiří Kadeřávek|	 zdržel se|
+|Petr Kopač|	pro|	 Ivo Vašíček|	 zdržel se|
 |Petr Třešnák	| pro	 |Ondřej Kalasch	| zdržel se|
 |Michal Havránek|	 pro	| Róbert Čuma	 |pro|
 |Patrik Doležal	| pro	| Petr Kopečný	| pro|
@@ -178,14 +179,15 @@ Hlasování č.4
 |Patrik Doležal|	 nepřítomen	| Petr Kopečný	|proti|
 |Lukáš Findeis|	 pro	| Jakub Michálek|	 pro|
 |Libor Špaček|	 pro|	 Lukáš Nový|	 zdržuje se|
-|Lukáš Černohorský	 zdržuje se
+|Lukáš Černohorský	| zdržuje se|
 
 * Výsledky hlasování o návrhu usnesení k bodu rozpočtová pravidla
 
-PRO	 14 hlasů
-PROTI	 1 hlas
-ZDRZELI SE	 3 hlasy
-Návrh usnesení byl přijat. 
+|PRO|	 14 hlasů|
+|PROTI|	 1 hlas|
+|ZDRZELI SE|	 3 hlasy|
+
+*Návrh usnesení **byl** přijat.* 
 
 ----
 
@@ -252,6 +254,7 @@ Hlasování č.9
 |Libor Špaček	| pro	| Lukáš Nový|	 nepřítomen|
 
 * Výsledky věcného hlasování
+
 |PRO|	 10 hlasů|
 |PROTI	| 0 hlasů|
 |ZDRZELI SE|	 1 hlas|
@@ -269,7 +272,7 @@ Hlasování č.10
 |Ivan Bartoš	| nepřítomen	| Jiří Kadeřávek	| nepřítomen|
 |Petr Kopač	| pro	 |Ivo Vašíček	| nepřítomen|
 |Petr Třešnák	| nepřítomen|	 Ondřej Kallasch	| zdržuje se|
-|Michal Havránek	| nepřítomen	| Róbert Čuma	 pro|
+|Michal Havránek	| nepřítomen	| Róbert Čuma|	 pro|
 |Patrik Doležal	| pro	| Petr Kopečný	 |pro|
 |Lukáš Findeis	 |pro	| Jakub Michálek	| pro|
 |Libor Špaček	| pro|	 Lukáš Černohorský	| pro|
@@ -290,7 +293,7 @@ Hlasování č.11
 
 |Zdeněk Štěpánek|	 pro|	 Ondřej Kotas	| pro|
 |Mikuláš Ferjenčík|	pro|	 Lukáš Findeis	| pro|
-|Jakub Michálek	| zdržuje se|	 Patrik Doležal	 pro|
+|Jakub Michálek	| zdržuje se|	 Patrik Doležal|	 pro|
 |Petr Kopač	| pro	|Libor Špaček	| pro|
 
 * Výsledky hlasování
