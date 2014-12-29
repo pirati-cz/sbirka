@@ -1,6 +1,6 @@
 ---
 typ:          rozhodnutí
-název:        Zápis z jednání republikového výboru na fóru ve dnech 5.2. až 15.3. 2013.
+název:        Jednání o bodu Svoboda podnikání
 značka:       RV 2/2013
 původce:      republikový výbor
 platnost:     2013-03-15
@@ -8,6 +8,8 @@ platnost:     2013-03-15
 zmocnění:     
 formát:       markdown
 ---
+
+#Zápis z jednání republikového výboru na fóru ve dnech 5.2. až 15.3. 2013.
 
 Republikové výbor **schvaluje** programový bod [Svoboda podnikání](https://www.pirati.cz/doku.php?id=program:svoboda_podnikani&rev=1363433855).
 
