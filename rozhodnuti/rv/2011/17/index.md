@@ -27,15 +27,16 @@ formát:       markdown
 
 2. Republikový výbor **předkládá** celostátnímu fóru následující návrh:
 
-1. K [jednacímu řádu celostátního fóra](http://www.pirati.cz/rules/jdr) se přidává čl. 33a, který zní: 
+ 1. K [jednacímu řádu celostátního fóra](http://www.pirati.cz/rules/jdr) se přidává čl. 33a, který zní: 
 
-2. **Čl. 33a Účast ve vládě** 
+ II. **Čl. 33a Účast ve vládě** 
 
-3. (1) Koaliční smlouva o účasti České pirátské strany ve vládě musí být schválena celostátním fórem, jinak je neplatná. 
+  (1) Koaliční smlouva o účasti České pirátské strany ve vládě musí být schválena celostátním fórem, jinak je neplatná. 
 
-4. (2) Způsobilost být ministrem za Českou pirátskou stranu má jen její člen nebo registrovaný příznivec. 
+  (2) Způsobilost být ministrem za Českou pirátskou stranu má jen její člen nebo registrovaný příznivec. 
 
-5. (3) Pokud strana získá křeslo ministra, použijí se na ministra stejná pravidla jako na vedoucího odboru.
+  (3) Pokud strana získá křeslo ministra, použijí se na ministra stejná pravidla jako na vedoucího odboru.
 
-6. Celostátní fórum **ukládá** republikovému výboru, aby mu předložilo návrh předpisu, který stanoví odborné požadavky na ministra za Českou pirátskou stranu a způsob, kterým kandidát prokazuje záruky plnění Pirátského programu.
+ 2. Celostátní fórum **ukládá** republikovému výboru, aby mu předložilo návrh předpisu, který stanoví odborné požadavky na ministra za Českou pirátskou stranu a způsob, kterým kandidát prokazuje záruky plnění Pirátského programu.
+
 
