@@ -57,13 +57,14 @@ Tento rozpočet se schvaluje na celý kalendářní rok 2010, zahrnuje však jen
 |Olomoucký kraj|	 7|
 |Karlovarský kraj|	 3|
 |Celkem	 |100|
+
 (3) Odhad volných příjmů činí 195000 Kč.
 
 **§4 Výdaje**
 
 (1) Výdaje peněz určených se rozpočítají podle svého určení; peníze volné se rozpočítají podle tabulky:
 
-|Náklad	| Částka [tis. Kč]|
+|Náklad	| Částka (tis. Kč)|
 |Orgán|
 |Republikové předsednictvo	| 15|
 |Peníze na volební kauce do senátu	| 15|
