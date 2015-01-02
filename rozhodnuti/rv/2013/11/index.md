@@ -247,7 +247,7 @@ Vojtěch Pikal vypracoval harmonogram podle volebního řádu:
 |31. 3. 2014	| Termín pro odstranění případných závad na kandidátní listině.|
 |1. - 5. 4. 2014	| Rozhodnutí úřadu o škrtnutí kandidáta na kandidátní listině, registraci nebo odmítnutí kandidátní listiny|
 |23. 4. 2014	| Delegace členů do okrskových volebních komisí|
-|23.-24. 5. 2014 |	**Volby|**
+|23.-24. 5. 2014 |	**Volby**|
 
 Harmonogram vyřeší administrativní odbor ve spolupráci s republikovým předsednictvem (§ 24 písm. a) VŘ) včetně výše uvedených termínů pro představení lídrů. Nikdo z přítomných nemá námitek. Mikuláš připomíná, že registrovaní příznivci budou hlasovat pouze na fyzických jednání (viz rozhodnutí rozhodčí komise).
 
@@ -371,8 +371,8 @@ Přítomní členové republikového výboru společně prošli zápis a ověři
 ### Záznam
 
 |Část	| Velikost|
-|1. část|	[480 x 360](http://static.pirati.cz/video/rv-2013-05-11-cast1-mensi.avi)|	[720 x 540](http://static.pirati.cz/video/rv-2013-05-11-cast1.avi)|
-|2. část|	[480 x 360|(http://static.pirati.cz/video/rv-2013-05-11-cast2-mensi.avi)	| [720 x 540](http://static.pirati.cz/video/rv-2013-05-11-cast2.avi)|
+|1. část|	[480 x 360](http://static.pirati.cz/video/rv-2013-05-11-cast1-mensi.avi)	|[720 x 540](http://static.pirati.cz/video/rv-2013-05-11-cast1.avi)|
+|2. část|	[480 x 360](http://static.pirati.cz/video/rv-2013-05-11-cast2-mensi.avi)	|[720 x 540](http://static.pirati.cz/video/rv-2013-05-11-cast2.avi)|
 |3. část|	[480 x 360](http://static.pirati.cz/video/rv-2013-05-11-cast3-mensi.avi)	|[720 x 540](http://static.pirati.cz/video/rv-2013-05-11-cast3.avi)|
 |4. část|	[480 x 360](http://static.pirati.cz/video/rv-2013-05-11-cast4-mensi.avi)	|[720 x 540] (http://static.pirati.cz/video/rv-2013-05-11-cast4.avi)|
 |5. část|	[480 x 360](http://static.pirati.cz/video/rv-2013-05-11-cast5-mensi.avi)	|[720 x 540](http://static.pirati.cz/video/rv-2013-05-11-cast5.avi)|
