@@ -212,21 +212,21 @@ Jaké máme stránky:
 * Cíl je 50.000 členů. Prostředek je vydávání newslettru. :-)
 * Diagram:
 
-`CORE ČPS
-|--------------------|
-| ideje
-| cile
-| prace
-| kontakt | kraj | clen
-    |
-    |                 /\
-    v do MO      |
-                      |
-Pirate identity  |
------------------------
-MO
-----------------------
-TO`
+`CORE ČPS`
+`|--------------------|`
+`| ideje`
+`| cile`
+`| prace`
+`| kontakt | kraj | clen`
+`    |`
+`    |                 /\`
+`    v do MO      |`
+`                      |`
+`Pirate identity  |`
+`-----------------------`
+`MO`
+`----------------------`
+`TO`
 
 * Informovat a vzdělávat členy.
 * Stream boje OSA a události.
