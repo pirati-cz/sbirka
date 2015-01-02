@@ -8,9 +8,6 @@ platnost:     2010-05-18
 zmocnění:     
 formát:       markdown
 ---
-
-Rozpočet České pirátské strany 2010
-
 **§1 Rozpočtové období**
 
 Tento rozpočet se schvaluje na celý kalendářní rok 2010, zahrnuje však jen příjmy a výdaje od účinnosti [rozpočtových pravidel](http://www.pirati.cz/rules/ropr). Rozpočet je vyrovnaný.
