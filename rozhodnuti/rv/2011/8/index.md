@@ -1,6 +1,6 @@
 ---
 typ:          rozhodnutí
-název:        Změna názvu strany
+název:        Změna zkratky strany
 značka:       RV 8/2011
 původce:      republikový výbor
 platnost:     2011-04-23
