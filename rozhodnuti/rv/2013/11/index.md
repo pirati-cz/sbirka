@@ -374,7 +374,7 @@ Přítomní členové republikového výboru společně prošli zápis a ověři
 |1. část|	[480 x 360](http://static.pirati.cz/video/rv-2013-05-11-cast1-mensi.avi)	|[720 x 540](http://static.pirati.cz/video/rv-2013-05-11-cast1.avi)|
 |2. část|	[480 x 360](http://static.pirati.cz/video/rv-2013-05-11-cast2-mensi.avi)	|[720 x 540](http://static.pirati.cz/video/rv-2013-05-11-cast2.avi)|
 |3. část|	[480 x 360](http://static.pirati.cz/video/rv-2013-05-11-cast3-mensi.avi)	|[720 x 540](http://static.pirati.cz/video/rv-2013-05-11-cast3.avi)|
-|4. část|	[480 x 360](http://static.pirati.cz/video/rv-2013-05-11-cast4-mensi.avi)	|[720 x 540] (http://static.pirati.cz/video/rv-2013-05-11-cast4.avi)|
+|4. část|	[480 x 360](http://static.pirati.cz/video/rv-2013-05-11-cast4-mensi.avi)	|[720 x 540](http://static.pirati.cz/video/rv-2013-05-11-cast4.avi)|
 |5. část|	[480 x 360](http://static.pirati.cz/video/rv-2013-05-11-cast5-mensi.avi)	|[720 x 540](http://static.pirati.cz/video/rv-2013-05-11-cast5.avi)|
 |6. část|	[480 x 360](http://static.pirati.cz/video/rv-2013-05-11-cast6-mensi.avi)	|[720 x 540](http://static.pirati.cz/video/rv-2013-05-11-cast6.avi)|
 
