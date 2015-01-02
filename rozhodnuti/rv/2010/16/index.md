@@ -3,8 +3,8 @@ typ:          rozhodnutí
 název:        Rozpočet České pirátské strany 2011
 značka:       RV 16/2010
 původce:      republikový výbor
-platnost:     2010-05-20
-účinnost:     2010-05-20
+platnost:     2010-12-21
+účinnost:     2010-12-21
 zmocnění:     čl. 9 odst. 5 písm. a) stanov
 formát:       markdown
 ---
