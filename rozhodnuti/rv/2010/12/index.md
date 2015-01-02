@@ -37,7 +37,7 @@ Tento rozpočet se schvaluje na celý kalendářní rok 2010, zahrnuje však jen
 
 (2) Z přijatých peněz se stanoví odhad 100000 Kč účelově určených příjmů ve prospěch organizačních složek:
 
-|Organizační složka	| Částka [tis. Kč]
+|Organizační složka	| Částka (tis. Kč)|
 |Orgán|
 |Mediální odbor|	 19|
 |Zahraniční odbor|	 5|
