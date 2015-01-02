@@ -9,7 +9,7 @@ zmocnění:
 formát:       markdown
 ---
 
-[Stenozáznam ze zasedání republikového výboru Pirátské strany v Brně](http://sbirka.pirati.cz/rozhodnuti/rv/2013/5/steno.html)
+[Stenozáznam ze zasedání republikového výboru Pirátské strany v Brně](http://sbirka.pirati.cz/rozhodnuti/rv/2013/5/steno.md)
 
 Pravidelné čtvrtletní zasedání s dvěma oddělenými jednáními od 10:00 do 18:00 každý den.
 Organizátorkou byla [Renata Bellini](https://www.pirati.cz/lide/renata_bellini), jednání bylo svoláno do sálu restaurace [Šelepova](http://www.selepova.cz/).
