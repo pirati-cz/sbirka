@@ -3,8 +3,8 @@ typ:          rozhodnutí
 název:        Novelizace statutu finančního odboru
 značka:       RV 16/2012
 původce:      
-platnost:     2014-02-08
-účinnost:     2014-02-08
+platnost:     2013-02-08
+účinnost:     2013-02-08
 zmocnění:     
 formát:       markdown
 ---
