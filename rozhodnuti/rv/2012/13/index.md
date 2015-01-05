@@ -23,8 +23,8 @@ V Rozpravě s připomínkami vystoupili Vojtěch Pikal, Petr Vileta a Lukáš Fi
 ## Hlasování
 Hlasování bylo [zahájeno](https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv13-2012-hlasovani-o-programovem-bodu-zdravotnictvi-t14408.html#p176909) 3.12. 2012. Výsledky byly [vyhlášeny](https://forum.pirati.cz/hlasovani-republikoveho-vyboru-f578/rv13-2012-hlasovani-o-programovem-bodu-zdravotnictvi-t14408-20.html#p177404) 5.12.
 
-**PRO návrh: 20**
+|**PRO návrh: 20**|Ondřej Profant, Petr Kopač, Jakub Michálek, Ivan Bartoš, Martin Shánil, Lukáš Findeis, Jiří Kadeřávek starší, Petr Vileta, Patrik Doležal, Mikuláš Ferjenčík, Ivo Vašíček, Ondřej Kotas, Miroslav Kmínek, Ondřej Kallasch, Zdeněk Štěpánek, Róbert Čuma, Jan Widerlechner, Václav Urban, Petr Třešňák, Michaela Vodová. |
+|PROTI návrhu:| 0|
+|zdrželo se:| 0|
 
-Ondřej Profant, Petr Kopač, Jakub Michálek, Ivan Bartoš, Martin Shánil, Lukáš Findeis, Jiří Kadeřávek starší, Petr Vileta, Patrik Doležal, Mikuláš Ferjenčík, Ivo Vašíček, Ondřej Kotas, Miroslav Kmínek, Ondřej Kallasch, Zdeněk Štěpánek, Róbert Čuma, Jan Widerlechner, Václav Urban, Petr Třešňák, Michaela Vodová. PROTI návrhu: 0
-zdrželo se: 0
 *Návrh byl přijat.*
