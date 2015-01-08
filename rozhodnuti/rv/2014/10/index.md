@@ -9,7 +9,9 @@ zmocnění:
 formát:       markdown
 ---
 
-> Republikový výbor se na návrh republikového předsednictva usnesl takto:
+## Návrh usnesení
+
+Republikový výbor se na návrh republikového předsednictva usnesl takto:
 
 > Vyhlašuje se první kolo participativního rozpočtování (kapitola č. 502 v rozpočtu strany na rok 2014):
 
