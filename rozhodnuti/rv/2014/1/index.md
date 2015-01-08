@@ -1,6 +1,6 @@
 ---
 typ:          rozhodnutí
-název:        usnesení republikového výboru k občanství jako podmínce členství
+název:        Společný program pro Eurovolby - věcné hlasování 
 značka:       RV 1/2014
 původce:      republikový výbor
 platnost:     2014-01-07
