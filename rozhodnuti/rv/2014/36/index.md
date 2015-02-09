@@ -9,4 +9,7 @@ zmocnění:     čl. 9 odst. 5 písm. c) stanov
 formát:       markdown
 ---
 
-Krajské fórum JmK schvaluje zvýšení výdajové položky 72060001 (projektové čerpání) o CZK 141 100,--.
+Přebytková rozpočtová položka č. 902 se snižuje o 141100 Kč (účelově určených KS Jmk).Odpovídající příjmová rozpočtová položka č. 011 se snižuje o částku 141100 Kč (účelově určených KS Jmk).
+
+Příjmová rozpočtová položka č. 180600 se navyšuje o částku 141100 Kč (účelově určených KS JmK).
+Odpovídající výdajová rozpočtová kapitola 700 se navyšuje o částku 141100 Kč (účelově určených KS JmK).
