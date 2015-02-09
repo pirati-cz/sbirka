@@ -1,48 +1,22 @@
 ---
 typ:          rozhodnutí
-název:        Společný program pro Eurovolby - věcné hlasování 
-značka:       RV 1/2014
+název:        RoPr a PraH - R.H. 1.k
+značka:       RV 33/2014
 původce:      republikový výbor
-platnost:     2014-01-07
-účinnost:     2014-01-07
+platnost:     2014-07-28
+účinnost:     2014-07-28
 zmocnění:     
 formát:       markdown
 ---
 
-Hlasuje se o následujícím návrhu usnesení:
+1. Schvalují se [nová rozpočtová pravidla](http://sbirka.pirati.cz/predpisy/prah/2014-08-02.html).
 
-> Republikový výbor České pirátské strany **schvaluje** [společný Pirátský program pro volby do Evropského parlamentu.](https://www.pirati.cz/zo/spolecnyep2014)
+2. Dosavadní rozpočtová pravidla se ruší.
 
-Hlasování bude trvat 48h.
+3. Ve statutu finančního odboru se vypouští nadpis Základní pravidla finančního odboru a navazující § 7 až 13.
 
-Hlasování bylo řádně oznámeno. Hlasuje se relativní většinou, takže bude pro přijetí potřeba více hlasů pro než součet hlasů proti a "zdržuji se".
+4. Rozpočty registrované podle dosavadních předpisů se považují za registrované v souladu s novými rozpočtovými pravidly.
 
-### Hlasování
+5. Účelové určení veřejných peněz za již obdržené veřejné peníze se řídí novými rozpočtovými pravidly. Ve schválených rozpočtech na rok 2014 se a) vypouští název účelového určení Veřejné peníze u všech rozpočtových položek, kde je uveden, b) vyznačuje u těchto rozpočtových položek, že zdrojem jsou Veřejné peníze (v souladu s § 3 odst. 2 nových rozpočtových pravidel).
 
-* František Navrkal: Zdržel se
-* Jiří Kadeřávek: Pro
-* Helena Jarolímková: Zdržel se
-* Dominika Michailidu: Pro
-* Martin Kučera: Pro
-* Adam Zábranský: Pro
-* Zdeněk Štěpánek: Pro
-* Lenka Kozlová: Pro
-* Jiří Rezek: Pro
-* Ondřej Kolek: Pro
-* Václav Klecanda: Pro
-* Lukáš Bartoň: Pro
-* Lukáš Moravec: Zdržuji se
-* Stanislav Štipl: Pro
-* Jakub Burget: Pro
-* Petr Třešňák: Pro
-* Lukáš Černohorský: Pro
-* Libor Špaček: Pro
-* Jan Hotarek: Zdržel se
-
-### Výsledky
-
-* Pro: 15
-* Proti: 0
-* Zdrželo se: 4
-
-**Návrh byl přijat**
+6. Republikovému předsednictvu se ukládá, aby do rozpočtového systému zaznamenalo změny provedené tímto usnesením.
