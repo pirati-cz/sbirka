@@ -1,6 +1,6 @@
 ---
 typ:          úplné znění předpisu
-stav:         aktuální
+stav:         návrh
 název:        Pravidla participativního rozpočtování
 zkratka:      PaRo
 původce:      republikový výbor
