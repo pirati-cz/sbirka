@@ -1,39 +1,6 @@
 Organizační řád
 ===============
 
-**Obsah**
-
-- [Organizační řád](#)
-				- [§ 1 Účel předpisu](#)
-	- [Obecná část](#)
-				- [§ 2 Týmová spolupráce](#)
-				- [§ 3 Člen týmu](#)
-				- [§ 4 Vedoucí týmu](#)
-				- [§ 5 Rozhodování](#)
-				- [§ 6 Spolupráce týmů](#)
-				- [§ 7 Týmové fungování volených orgánů strany](#)
-	- [Rozdělení působnosti](#)
-				- [§ 8 Republikové předsednictvo](#)
-				- [§ 9 Republikový výbor](#)
-				- [§ 10 Mediální odbor](#)
-				- [§ 11 Administrativní odbor](#)
-				- [§ 12 Technický odbor](#)
-				- [§ 13 Finanční odbor](#)
-				- [§ 14 Zahraniční odbor](#)
-				- [§ 15 Personální odbor](#)
-				- [§ 16 Garant programové oblasti](#)
-				- [§ 17 Přezkumné orgány](#)
-				- [§ 18 Oblastní sdružení](#)
-				- [§ 19 Oblastní předsednictvo](#)
-				- [§ 20 Založení, změna a zrušení místního sdružení](#)
-	- [Závěrečná ustanovení](#)
-				- [§ 21  Komunikace](#)
-				- [§ 22 Důvěrnost informací](#)
-				- [§ 23 Zmocnění](#)
-				- [§ 24 Osvědčení](#)
-				- [§ 25 Jednání jménem strany](#)
-				- [§ 26 Krizová opatření](#)
-
 ##### § 1 Účel předpisu
 
 (1) Účelem organizačního řádu je vymezit statut volených orgánů strany a stanovit společná pravidla pro fungování týmů a zodpovědnosti jejich členů. 
