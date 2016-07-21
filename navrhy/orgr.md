@@ -72,18 +72,17 @@ Rozdělení působnosti
 
 * a) vede stranu na celostátní úrovni a ukládá úkoly odborům, ledaže by takovým úkolem zasáhlo do výlučné působnosti odboru,
 * b) připravuje programové dokumenty na celostátní úrovni a předkládá je republikovému výboru nebo celostátnímu fóru,
-* c) jmenuje garanty programových oblastí a stanoví jejich působnost podle jiného vnitřního předpisu,[^ZrKO]
+* c) jmenuje garanty programových oblastí a stanoví jejich působnost podle předpisu o zřízení odborů,
 * d) schvaluje smluvní vzory dohody o mlčenlivosti, dohody o hmotné odpovědnosti, pravidla výběrových řízení a jiné vzory právních dokumentů použitelných pro celou stranu,
 * e) sjednává a podepisuje smlouvy s ostatními politickými stranami na celostátní a celosvětové úrovni,
 * f) předkládá republikovému výboru návrh rozpočtu strany a plní další úkoly podle rozpočtových pravidel,
-* g) plní úkoly oblastního předsednictva (§ X) v místech, kde sdružení řádně nepůsobí (§ 17 a násl.),
+* g) plní úkoly oblastního předsednictva (§ 19) v místech, kde sdružení řádně nepůsobí (§ 18 a násl.),
 * h) na nejvyšší úrovni operativně řeší vnitřní spory a řeší dohody mezi orgány strany a organizačními jednotkami,
 * i) připravuje strategii a plán úkolů a kampaní strany a projednává tyto dokumenty s republikovým výborem,
 * j) připravuje a předkládá celostátnímu fóru výroční zprávu o činnosti.
 
-(2) V hlavních mediálních výstupech stranu zastupuje předseda strany. Tím nejsou dotčeny úkoly zvolených zástupců.
+(2) V hlavních mediálních výstupech stranu zastupuje předseda strany. Tím nejsou dotčeny úkoly volených zástupců.
 
-[^ZrKO]
 
 ##### § 9 Republikový výbor
 
@@ -114,7 +113,7 @@ Republikový výbor
 * b) dohlíží na mediální stránku celostátně koordinované volební kampaně,
 * c) dohlíží na mediální výstupy oblastních sdružení,
 * d) spravuje celostátní úložiště grafických a jiných kreativních materiálů,
-* e) rozvíjí komunikační strategii a značku strany,((Pirátská identita))
+* e) rozvíjí komunikační strategii a značku strany,
 * f) spravuje stranické sociální sítě,
 * g) propaguje stranu a zajišťuje propagační materiály na celostátní úrovni,
 * h) jedná se sdělovacími prostředky, mediálními agenturami a dalšími osobami, které odborně působí při mediální komunikaci,
@@ -144,7 +143,7 @@ Republikový výbor
 * b) dohlíží na administrativní přípravu voleb na celostátní úrovni,
 * c) vede důvěrný seznam členů okrskových volebních komisí,
 * d) přípravuje smluvní vzory a jiné právní dokumenty a dále zajišťuje právní zastoupení v soudních sporech,
-* e) vydává osvědčení či pro předsednictvo připravuje jeho návrh (§ X),
+* e) vydává osvědčení či pro předsednictvo připravuje jeho návrh (§ 24),
 * f) koordinuje administrativu výběrových řízení,
 * g) spravuje kalendář důležitých termínů.
 
@@ -161,7 +160,7 @@ Republikový výbor
 
 (1) Finanční odbor ve výlučné působnosti
 
-* a) dohlíží na plnění rozpočtu, na správu stranického majetku a dodržování [[rules:prah|pravidel hospodaření]], 
+* a) dohlíží na plnění rozpočtu, na správu stranického majetku a dodržování pravidel hospodaření, 
 * b) zadává při dodržení pravidel hospodaření platební příkazy,
 * c) vede a zveřejňuje účetnictví strany,
 * d) vede seznam dodavatelů a jejich odměn a přehled centrálně objednávaných dodávek a služeb,
@@ -175,7 +174,7 @@ Republikový výbor
 * a) řeší a koordinuje fundraising na celostátní úrovni,
 * b) stanoví seznam elektronických platebních systémů používaných stranou,
 * c) spravuje účty strany v bance a další finanční účty,
-* d) zpracovává pro republikové předsednictvo návrhy dokumentů podle rozpočtových pravidel.[^zrko]
+* d) zpracovává pro republikové předsednictvo návrhy dokumentů podle rozpočtových pravidel.
 
 (3) Předseda strany, vedoucí finančního odboru a každá další osoba, která má mít oprávnění zadávat platební příkazy, musí před zapsáním tohoto oprávnění podepsat dohodu o hmotné odpovědnosti za neoprávněné převody provedené pod jejími uživatelskými údaji.
 
@@ -205,7 +204,7 @@ Republikový výbor
 
 ##### § 16 Garant programové oblasti
 
-Garant programové oblasti ([[/rules/zrko#garanti_programovych_bodu|§2 ZřKO]]) poskytuje odbornou záštitu politice strany ohledně některého programového bodu, zejména
+Garant programové oblasti (§2 ZřKO) poskytuje odbornou záštitu politice strany ohledně některého programového bodu, zejména
 
 * a) vede tým věnující se dané oblasti,
 * b) sleduje svěřenou oblast, připravuje návrh stanoviska strany k projednávaným návrhům zákonů či jiným opatřením, 
@@ -217,7 +216,7 @@ Garant programové oblasti ([[/rules/zrko#garanti_programovych_bodu|§2 ZřKO]])
 ##### § 17 Přezkumné orgány 
 
 Pravomoci a úkoly kontrolní komise a rozhodčí komise uvedené ve stanovách 
-([[/rules/st#p-13|čl. 13]]) upřesňuje rozhodčí řád.
+(čl. 13) upřesňuje rozhodčí řád.
 
 ##### § 18 Oblastní sdružení
 
@@ -235,7 +234,7 @@ Pravomoci a úkoly kontrolní komise a rozhodčí komise uvedené ve stanovách
 * j) realizuje celostátní kampaně na oblastní úrovni.
 
 (2) Oblastní sdružení dále
-* a) sestavuje kandidátní listinu v příslušných volbách podle volebního řádu [^VŘ],
+* a) sestavuje kandidátní listinu v příslušných volbách podle volebního řádu,
 * b) může schválit a pokud jde o krajské sdružení, povinně schvaluje vlastní rozpočet a samostatně podává žádosti o proplacení výdajů z něho, 
 * c) udržuje svou část internetového fóra a jiných systémů strany v dobrém, reprezentativním stavu.
 
@@ -256,7 +255,7 @@ Oblastní předsednictvo
 
 ##### § 20 Založení, změna a zrušení místního sdružení 
 
-(1) Místní sdružení se doporučuje zakládat, pokud je rozumná šance, že oblastní sdružení bude plnit svěřené úkoly (§ 17). Návrh na založení místního sdružení obsahuje 
+(1) Místní sdružení se doporučuje zakládat, pokud je rozumná šance, že oblastní sdružení bude plnit svěřené úkoly (§ 18). Návrh na založení místního sdružení obsahuje 
 
 * a) vymezení jeho území, jež musí být souvislé, uvnitř území příslušného krajského sdružení, nesmí se překrývat s existujícím sdružením a musí být totožné s územím přesně vyjmenovaných samosprávných celků (obcí, měst, městských částí či obvodů),
 * b) název místního sdružení, který odpovídá geografické oblasti či názvu zahrnutého samosprávného celku.
@@ -270,7 +269,7 @@ Závěrečná ustanovení
 
 ##### § 21  Komunikace
 
-(1) Není-li stanoveno či dohodnuto jinak, v komunikaci uvnitř Pirátské strany uplatňuje zásada bezformálnosti.
+(1) Není-li stanoveno či dohodnuto jinak, v komunikaci uvnitř Pirátské strany se uplatňuje zásada bezformálnosti.
 
 (2) Politikou strany je nulová tolerance vůči urážlivému, rasistickému, nepřiměřeně obtěžujícímu či trvale destruktivnímu vyjadřování. Nikdo není povinen taková vyjádření trpět či na ně reagovat. Nelze-li danému člověku domluvit, vedoucí týmu mu znemožní jakkoliv zasahovat do fungování týmu a v případě opakovaného jednání lze navrhnout jeho vyloučení ze strany.
 
