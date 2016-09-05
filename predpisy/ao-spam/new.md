@@ -1,0 +1,20 @@
+---
+typ:          úplné znění předpisu
+stav:         aktuální
+název:        Hromadné zprávy
+zkratka:      AO-spam
+původce:      Administrativní odbor
+platnost:     2013-12-31
+účinnost:     2013-12-31
+zmocnění:     čl. 9 odst. 5 písm. a) stanov
+kategorie:    
+síla:         vnitřní předpis vydaný administrativním odborem
+formát:       markdown
+schváleno:    
+---
+#Hromadné zprávy
+
+K provedení [jednacího řádu](http://www.pirati.cz/rules/jdr) v prostředí internetového fóra vyhlašuje administrativní odbor v souladu s [§5(2) ZřKO](http://www.pirati.cz/rules/zrko#pusobnost_odboru) následující pravidla pro posílání e-mailů a soukromých zpráv na celostátní fórum:
+
+1. **Zákaz hromadných zpráv**. Posílání hromadných soukromých zpráv a hromadných e-mailů členům celostátního fóra a registrovaným příznivcům je vyhrazeno členům republikového předsednictva a vedoucím odborů. Ostatní mohou v odůvodněných případech předem požádat vedoucího administrativního odboru nebo jinou oprávněnou osobu. Zneužití této funkce se považuje za hrubé porušení pravidel fóra a trestá se podle [pravidel fóra](http://www.pirati.cz/ao/pravidla/forum).
+2. **Rozesílání členských podnětů**. Členský podnět, který získá aspoň stanovený počet hlasů v [příslušném fóru](https://forum.pirati.cz/viewforum.php?f=350), rozešle na [žádost](https://forum.pirati.cz/podatelna-administrativniho-odboru-f227/zadosti-o-rozeslani-clenskych-podnetu-t15395.html) člena administrativní odbor všem členům strany v e-mailu jako členskou iniciativu s odkazem na dané vlákno, a to nejpozději do jednoho měsíce od žádosti. Stanovený počet hlasů se pro účely tohoto pravidla vypočítá jako odmocnina z počtu členů strany zaokrouhlená nahoru na celé číslo. Toto pravidlo se nevztahuje na členské podněty nesplňující kvality přijatelného návrhu dle [§ 4(1) JdŘ](https://www.pirati.cz/rules/jdr#navrh).
